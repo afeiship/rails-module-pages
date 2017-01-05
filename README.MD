@@ -7,3 +7,6 @@ cd ~/github/rails-module-pages
 rails new .
 bundle install
 ```
+
+## resources:
++ https://ruby-china.org/topics/3313
