@@ -1,0 +1,9 @@
+#rails-module-pages
+> Rails module for pages(like about/help/contact...).
+
+## initialize:
+```bash
+cd ~/github/rails-module-pages
+rails new .
+bundle install
+```
