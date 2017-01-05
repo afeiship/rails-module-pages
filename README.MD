@@ -9,8 +9,9 @@ bundle install
 ```
 
 ## generate static pages:
-+ rails generate controller StaticPages about help --no-test-framework
-+ rails destroy controller StaticPages home help
-
+```bash
+rails generate controller StaticPages about help --no-test-framework
+rails destroy controller StaticPages home help
+```
 ## resources:
 + https://ruby-china.org/topics/3313
