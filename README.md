@@ -1,4 +1,4 @@
-#rails-module-pages
+# rails-module-pages
 > Rails module for pages(like about/help/contact...).
 
 ## initialize:
