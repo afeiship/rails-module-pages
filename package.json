@@ -1,0 +1,8 @@
+{
+  "name": "rails-module-pages",
+  "private": true,
+  "scripts": {
+    "start":"./bin/rails server"
+  },
+  "dependencies": {}
+}
