@@ -38,8 +38,10 @@ bundle install
    ./bin/rails g rails_pages:install
    ```
 4. preview
+   ~~~
    http://localhost:3000/rails_pages/help
    http://localhost:3000/rails_pages/about
+   ~~~
 
 5. Or you can modify the mounted_at
    ```rb
