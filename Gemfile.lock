@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/afeiship/rails_pages
+  revision: 61f9674bb602c58e953a3a4d78b04a34d90d7824
+  specs:
+    rails_pages (0.1.0)
+      rails (~> 5.2.3)
+
 GEM
   remote: https://gems.ruby-china.com/
   specs:
@@ -203,6 +210,7 @@ DEPENDENCIES
   listen (>= 3.0.5, < 3.2)
   puma (~> 3.11)
   rails (~> 5.2.2, >= 5.2.2.1)
+  rails_pages!
   sass-rails (~> 5.0)
   selenium-webdriver
   spring
