@@ -47,10 +47,14 @@ bundle install
    ```rb
    # ./config/routes.rb
    Rails.application.routes.draw do
-    mount RailsPages::Engine => "/rails_pages"
+    mount RailsPages::Engine => "/"
     # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
    end
    ```
+   ~~~
+   http://localhost:3000/help
+   http://localhost:3000/about
+   ~~~
 
 ## resources:
 + https://ruby-china.org/topics/3313
